@@ -154,6 +154,8 @@ table {
     height: 196px;
     border-collapse: collapse; 
     border: 1px solid #95a1bb;
+    font-weight: 400;
+    font-size: 14px;
 }
 
 th, td {
