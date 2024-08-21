@@ -11,30 +11,45 @@ header {
     /* Стили для хедера */
     background-color: #2965f1;
     padding: 23px 0;
+}
+
+header span {
+    /* Стили для текста в хедере IT-INCUBATOR */
     font-family: "Inter", sans-serif;
     font-weight: 700;
     font-size: 20px;
     color: #fff;
 }
 
-header span {
-    /* Стили для текста в хедере IT-INCUBATOR */
-}
-
 .main-section {
     /* Стили для первой секции */
+    background: #fafaff;
+    padding: 60px 0px;
+    min-height: 100%;
+    margin-bottom: 356px;
 }
 
 .main-title {
     /* Стили для заголовка в первой секции */
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    color: #303030;
+    margin-bottom: 20px;
 }
 
 .main-text {
     /* Стили для текста в первой секции */
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #303030;
 }
 
 .main-image {
     /* Стили для изображения в первой секции */
+    width:100%;
+    max-width:715px; 
 }
 
 
